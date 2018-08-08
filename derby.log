@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Wed Apr 17 21:53:57 BRT 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-013e-1aa2-2a3c-0000033d4180 
+on database directory C:\Users\julio\Documents\NetBeansProjects\IrpfAppComPadroesDerby\derbyDB  with class loader sun.misc.Launcher$AppClassLoader@6c5c90f6 
+Loaded from file:/C:/Users/julio/Documents/NetBeansProjects/IrpfAppComPadroesDerby/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_15-b03
+user.dir=C:\Users\julio\Documents\NetBeansProjects\IrpfAppComPadroesDerby
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
